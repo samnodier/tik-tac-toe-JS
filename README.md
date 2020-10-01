@@ -4,11 +4,11 @@ JavaScript tik-tac-toe that you play using numbers. It's interactive compared to
 
 This is based on the same idea but _more interactive_.
 
-[ * ] Create the app window
-[ * ] Add 3 rows
-[ * ] Create an Array in JavaScript
-[ * ] Create key event listener
-[ * ] Update the array
-[ * ] Always show the array on the page
+- [ x ] Create the app window
+- [ x ] Add 3 rows
+- [ x ] Create an Array in JavaScript
+- [ x ] Create key event listener
+- [ x ] Update the array
+- [ x ] Always show the array on the page
 
 To view the demo of the app, visit [https://sam0132nodier.github.io/tik-tac-toe-JS](https://sam0132nodier.github.io/tik-tac-toe-JS).
